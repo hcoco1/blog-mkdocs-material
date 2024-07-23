@@ -6,12 +6,17 @@ authors:
 categories:
   - Career Guidance
 ---
+# Ivan Sample Pitch
+
+![alt text](https://images.unsplash.com/photo-1577563908411-5077b6dc7624?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 >I'm Ivan Arias; I recently graduated with a certification in Web development. I'm passionate about mastering front-end and back-end development. I have a geological background and strong interpersonal and team-building skills.
+
+
 <!-- more -->
 
 
-# Ivan Sample Pitch
+
 
 ### Elevator Pitch 2023 (Ivan's Voice)
 

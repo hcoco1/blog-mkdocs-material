@@ -9,6 +9,8 @@ categories:
 
 # Developing Your Pitch
 
+![alt text](https://images.unsplash.com/photo-1711371307312-bb5d027f660d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
 >An elevator pitch is your short (30-60 second) professional introduction. A prepared elevator pitch will help you start a conversation with potential employers, faculty members, alumni and others. (Developing Your Elevator Pitch, n.d.)
 
 <!-- more -->

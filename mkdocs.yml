@@ -4,10 +4,13 @@ repo_url: https://github.com/hcoco1/blog-mkdocs-material
 theme:
   icon:
     repo: fontawesome/brands/github
-    logo: material/skull
+    logo: material/home
+
   name: material
   features:
     - navigation.sections
+    - navigation.instant
+    
 plugins:
   - blog:
       blog_dir: . 
