@@ -1,0 +1,16 @@
+site_name: My Blog
+theme:
+  name: material
+  features:
+    - navigation.sections
+plugins:
+  - blog:
+      blog_dir: . 
+  - search
+  - tags
+nav:
+  - index.md
+copyright: Copyright &copy; 2024 Ivan Arias
+
+extra:
+  generator: false
