@@ -1,5 +1,6 @@
 site_name: Interview Preparation Hub
 site_url: https://hcoco1.github.io/blog-mkdocs-material
+repo_url: https://github.com/hcoco1/blog-mkdocs-material
 theme:
   icon:
     repo: fontawesome/brands/github
@@ -17,7 +18,7 @@ plugins:
 nav:
   - index.md
 copyright: Copyright &copy; 2024 Ivan Arias
-repo_url: https://github.com/hcoco1/blog-mkdocs-material
+
 
 extra:
   generator: false
