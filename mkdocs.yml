@@ -13,6 +13,7 @@ plugins:
       blog_dir: . 
   - search
   - tags
+  - social
 
 
 nav:
