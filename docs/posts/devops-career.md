@@ -4,15 +4,15 @@ date: 2024-09-22
 authors:
   - hcoco1
 categories:
-  - Career
-  - World1
-tags:
-  - pitch
-  - career
+  - DevOps
+
 ---
 # Devops Career
 
 >DevOps is a cultural and collaborative mindset emphasizing communication, collaboration, integration, and automation between development and operations teams to deliver faster and more reliable software.
+
+![alt text](https://images.unsplash.com/photo-1667372335879-9b5c551232e5?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
 <!-- more -->
 
 DevOps is not confined to a specific job title or role. It's a versatile set of practices and principles that can be applied across various roles in software development and IT operations. Anyone involved in the software development and delivery process, be it developers, testers, operations engineers, product managers, or others, can adopt a DevOps mindset and apply its practices.
@@ -103,6 +103,7 @@ Version control is essential for tracking changes in code and collaborating with
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Xrgk023l4lI?si=g2Rw_OW1gH99AdWj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
 

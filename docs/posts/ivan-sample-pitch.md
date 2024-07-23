@@ -4,11 +4,7 @@ date: 2022-02-03
 authors:
   - hcoco1
 categories:
-  - Career
-  - World
-tags:
-  - pitch
-  - career
+  - Career Guidance
 ---
 
 >I'm Ivan Arias; I recently graduated with a certification in Web development. I'm passionate about mastering front-end and back-end development. I have a geological background and strong interpersonal and team-building skills.

@@ -4,11 +4,7 @@ date: 2022-02-15
 authors:
   - hcoco1
 categories:
-  - Career
-  - World
-tags:
-  - pitch
-  - career
+  - Career Guidance
 ---
 
 # Developing Your Pitch
