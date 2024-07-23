@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2022-02-03
+date: 2024-02-03
 authors:
   - hcoco1
 categories:
@@ -18,12 +18,14 @@ categories:
 
 
 
-### Elevator Pitch 2023 (Ivan's Voice)
+### Web Development
+
+#### Version I
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/azD73brL0lU?si=O1cnfabyoZTg0wdF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-#### Transcript
+##### Transcript
 
 I'm Ivan Arias; I recently graduated with a certification in Web development. I'm passionate about mastering front-end and back-end development. I have a geological background and strong interpersonal and team-building skills.
 
@@ -31,12 +33,14 @@ I am a completer-finisher who can be relied upon to complete a job on time and t
 
 Also, I'm excited to apply my skills and continue learning in a professional setting.
 
-### Elevator Pitch 2024 (AI Voiced) - Version I
+### Web Development + Cybersecurity
+
+#### Version I
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aapxTwA-Bek?si=bnEEK_uLsoeAfoX4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-#### Transcript
+##### Transcript
 
 Hello, I'm Ivan Arias. I recently graduated with certifications in Web Development and Cybersecurity.
 
@@ -50,12 +54,12 @@ My academic achievements reflect my dedication and efficiency, often surpassing 
 
 I am eager to apply my diverse skill set in a professional setting, continuing to learn and grow in the dynamic fields of web development and cybersecurity.
 
-### Elevator Pitch 2024 (AI Voiced) - Version II
+#### Version II
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gx7fW0OKJ6U?si=URKEVwsM-u_Y4D6d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-#### Transcript
+##### Transcript
 
 Hello, I’m Ivan Arias. I recently graduated with certifications in Web Development and Cybersecurity.
 
@@ -70,7 +74,7 @@ My academic success shows my dedication and efficiency, often exceeding expectat
 I am eager to apply my skills in a professional setting. I am particularly excited about the opportunities to learn and grow in web development and cybersecurity, which fills me with optimism about my potential in these fields.
 
 
-### Elevator Pitch 2024 (AI Voiced) - Version III
+### Web Development + Cybersecurity + AWS + DevOps
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QfiFMEDKqU0?si=6DLcopBTQUPsJFYh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -87,8 +91,7 @@ I am eager to apply my skills professionally, where I can continue to grow and l
 
 
 
-
-### Elevator Pitch Practice (Ivan's Voice)
+### Pitch Practice (Ivan's Voice)
 
 #### Attempt 1
 

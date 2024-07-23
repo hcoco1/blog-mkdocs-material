@@ -1,1 +1,1 @@
-# Home 
+# Latest Blog Posts
