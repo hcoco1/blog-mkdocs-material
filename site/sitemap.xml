@@ -41,7 +41,27 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://hcoco1.github.io/blog-mkdocs-material/2024/07/05/javascript-control-structures/</loc>
+         <lastmod>2024-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hcoco1.github.io/blog-mkdocs-material/2024/07/09/javascript-roadmap/</loc>
+         <lastmod>2024-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hcoco1.github.io/blog-mkdocs-material/2024/07/12/javascript-basics/</loc>
+         <lastmod>2024-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://hcoco1.github.io/blog-mkdocs-material/2024/07/23/software-development-life-cycle-sdlc/</loc>
+         <lastmod>2024-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hcoco1.github.io/blog-mkdocs-material/2024/06/23/understanding-variables/</loc>
          <lastmod>2024-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -76,12 +96,37 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://hcoco1.github.io/blog-mkdocs-material/category/javascript/</loc>
+         <lastmod>2024-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://hcoco1.github.io/blog-mkdocs-material/category/docker/</loc>
          <lastmod>2024-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://hcoco1.github.io/blog-mkdocs-material/category/programming/</loc>
+         <lastmod>2024-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hcoco1.github.io/blog-mkdocs-material/category/python/</loc>
+         <lastmod>2024-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://hcoco1.github.io/blog-mkdocs-material/category/career-guidance/</loc>
+         <lastmod>2024-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hcoco1.github.io/blog-mkdocs-material/page/2/</loc>
+         <lastmod>2024-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hcoco1.github.io/blog-mkdocs-material/archive/2024/page/2/</loc>
          <lastmod>2024-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
