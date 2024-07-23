@@ -6,17 +6,42 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://hcoco1.github.io/blog-mkdocs-material/2022/02/15/developing-your-pitch/</loc>
+         <loc>https://hcoco1.github.io/blog-mkdocs-material/2024/07/23/agile-methodology/</loc>
          <lastmod>2024-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://hcoco1.github.io/blog-mkdocs-material/2024/09/22/devops-career/</loc>
+         <loc>https://hcoco1.github.io/blog-mkdocs-material/2023/11/15/developing-your-pitch/</loc>
          <lastmod>2024-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://hcoco1.github.io/blog-mkdocs-material/2022/02/03/ivan-sample-pitch/</loc>
+         <loc>https://hcoco1.github.io/blog-mkdocs-material/2024/07/22/devops-culture/</loc>
+         <lastmod>2024-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hcoco1.github.io/blog-mkdocs-material/2024/07/22/devops-roadmap/</loc>
+         <lastmod>2024-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hcoco1.github.io/blog-mkdocs-material/2024/07/20/devsecops/</loc>
+         <lastmod>2024-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hcoco1.github.io/blog-mkdocs-material/2024/07/11/containerization---docker/</loc>
+         <lastmod>2024-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hcoco1.github.io/blog-mkdocs-material/2024/02/03/ivan-sample-pitch/</loc>
+         <lastmod>2024-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hcoco1.github.io/blog-mkdocs-material/2024/07/23/software-development-life-cycle-sdlc/</loc>
          <lastmod>2024-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -26,12 +51,32 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://hcoco1.github.io/blog-mkdocs-material/archive/2022/</loc>
+         <loc>https://hcoco1.github.io/blog-mkdocs-material/archive/2023/</loc>
+         <lastmod>2024-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hcoco1.github.io/blog-mkdocs-material/category/agile/</loc>
+         <lastmod>2024-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hcoco1.github.io/blog-mkdocs-material/category/web-development/</loc>
          <lastmod>2024-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hcoco1.github.io/blog-mkdocs-material/category/devops/</loc>
+         <lastmod>2024-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hcoco1.github.io/blog-mkdocs-material/category/devsecops/</loc>
+         <lastmod>2024-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hcoco1.github.io/blog-mkdocs-material/category/docker/</loc>
          <lastmod>2024-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
