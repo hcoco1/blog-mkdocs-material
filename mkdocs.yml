@@ -1,5 +1,9 @@
-site_name: My Blog
+site_name: Interview Preparation Hub
+site_url: https://hcoco1.github.io/blog-mkdocs-material
 theme:
+  icon:
+    repo: fontawesome/brands/github
+    logo: material/skull
   name: material
   features:
     - navigation.sections
@@ -8,9 +12,12 @@ plugins:
       blog_dir: . 
   - search
   - tags
+  - social
+
 nav:
   - index.md
 copyright: Copyright &copy; 2024 Ivan Arias
+repo_url: https://github.com/hcoco1/blog-mkdocs-material
 
 extra:
   generator: false
