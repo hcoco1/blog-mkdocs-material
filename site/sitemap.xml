@@ -26,7 +26,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://hcoco1.github.io/blog-mkdocs-material/2024/07/22/devops-culture/</loc>
+         <loc>https://hcoco1.github.io/blog-mkdocs-material/2024/07/20/devsecops/</loc>
+         <lastmod>2024-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hcoco1.github.io/blog-mkdocs-material/2024/07/11/containerization---docker/</loc>
          <lastmod>2024-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -62,6 +67,16 @@
     </url>
     <url>
          <loc>https://hcoco1.github.io/blog-mkdocs-material/category/devops/</loc>
+         <lastmod>2024-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hcoco1.github.io/blog-mkdocs-material/category/devsecops/</loc>
+         <lastmod>2024-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hcoco1.github.io/blog-mkdocs-material/category/docker/</loc>
          <lastmod>2024-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
