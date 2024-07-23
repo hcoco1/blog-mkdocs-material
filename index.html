@@ -26,6 +26,9 @@
     
       <link rel="stylesheet" href="assets/stylesheets/main.76a95c52.min.css">
       
+        
+        <link rel="stylesheet" href="assets/stylesheets/palette.06af60db.min.css">
+      
       
 
 
@@ -79,7 +82,14 @@
   </head>
   
   
-    <body dir="ltr">
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
   
     
     <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
@@ -131,6 +141,32 @@
       </div>
     </div>
     
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12c0-2.42-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
     
       <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
     
@@ -158,6 +194,8 @@
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
         </button>
       </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
       
     </form>
     <div class="md-search__output">
@@ -525,6 +563,75 @@
   
   
     <li class="md-nav__item">
+      <a href="category/javascript/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Javascript
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="category/programming/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Programming
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="category/python/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Python
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
       <a href="category/web-development/" class="md-nav__link">
         
   
@@ -604,7 +711,7 @@
           
           <li class="md-meta__item">
             
-              2 min read
+              3 min read
             
           </li>
         
@@ -841,6 +948,55 @@
     <div class="md-post__meta md-meta">
       <ul class="md-meta__list">
         <li class="md-meta__item">
+          <time datetime="2024-07-12 00:00:00">July 12, 2024</time></li>
+        
+          <li class="md-meta__item">
+            in
+            
+              <a href="category/javascript/" class="md-meta__link">Javascript</a>, 
+              <a href="category/web-development/" class="md-meta__link">Web Development</a></li>
+        
+        
+          
+          <li class="md-meta__item">
+            
+              5 min read
+            
+          </li>
+        
+      </ul>
+      
+    </div>
+  </header>
+  <div class="md-post__content md-typeset">
+    <h2 id="javascript-basics"><a class="toclink" href="2024/07/12/javascript-basics/">JavaScript Basics</a></h2>
+<p><img alt="alt text" src="https://images.unsplash.com/photo-1667372393096-9c864313e868?q=80&amp;w=1932&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" /></p>
+<p>JavaScript, often abbreviated JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. It lets us add interactivity to pages e.g. you might have seen sliders, alerts, click interactions, popups, etc on different websites — all of that is built using JavaScript...</p>
+
+    
+      <nav class="md-post__action">
+        <a href="2024/07/12/javascript-basics/">
+          Continue reading
+        </a>
+      </nav>
+    
+  </div>
+</article>
+      
+        <article class="md-post md-post--excerpt">
+  <header class="md-post__header">
+    
+      <nav class="md-post__authors md-typeset">
+        
+          <span class="md-author">
+            <img src="https://avatars.githubusercontent.com/u/52940441?v=4" alt="Ivan Arias">
+          </span>
+        
+      </nav>
+    
+    <div class="md-post__meta md-meta">
+      <ul class="md-meta__list">
+        <li class="md-meta__item">
           <time datetime="2024-07-11 00:00:00">July 11, 2024</time></li>
         
           <li class="md-meta__item">
@@ -891,12 +1047,13 @@
     <div class="md-post__meta md-meta">
       <ul class="md-meta__list">
         <li class="md-meta__item">
-          <time datetime="2024-02-03 00:00:00">February 3, 2024</time></li>
+          <time datetime="2024-07-09 00:00:00">July 9, 2024</time></li>
         
           <li class="md-meta__item">
             in
             
-              <a href="category/career-guidance/" class="md-meta__link">Career Guidance</a></li>
+              <a href="category/javascript/" class="md-meta__link">Javascript</a>, 
+              <a href="category/web-development/" class="md-meta__link">Web Development</a></li>
         
         
           
@@ -911,15 +1068,13 @@
     </div>
   </header>
   <div class="md-post__content md-typeset">
-    <h2 id="ivan-sample-pitch"><a class="toclink" href="2024/02/03/ivan-sample-pitch/">Ivan Sample Pitch</a></h2>
-<p><img alt="alt text" src="https://images.unsplash.com/photo-1577563908411-5077b6dc7624?q=80&amp;w=2070&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" /></p>
-<blockquote>
-<p>I'm Ivan Arias; I recently graduated with a certification in Web development. I'm passionate about mastering front-end and back-end development. I have a geological background and strong interpersonal and team-building skills.</p>
-</blockquote>
+    <h2 id="javascript-roadmap"><a class="toclink" href="2024/07/09/javascript-roadmap/">JavaScript Roadmap</a></h2>
+<p><img alt="alt text" src="https://images.unsplash.com/photo-1655196601100-8bfb26cf99e9?q=80&amp;w=1931&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" /></p>
+<p>JavaScript, often abbreviated JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. It lets us add interactivity to pages e.g. you might have seen sliders, alerts, click interactions, popups, etc on different websites — all of that is built using JavaScript...</p>
 
     
       <nav class="md-post__action">
-        <a href="2024/02/03/ivan-sample-pitch/">
+        <a href="2024/07/09/javascript-roadmap/">
           Continue reading
         </a>
       </nav>
@@ -941,18 +1096,19 @@
     <div class="md-post__meta md-meta">
       <ul class="md-meta__list">
         <li class="md-meta__item">
-          <time datetime="2023-11-15 00:00:00">November 15, 2023</time></li>
+          <time datetime="2024-07-05 00:00:00">July 5, 2024</time></li>
         
           <li class="md-meta__item">
             in
             
-              <a href="category/career-guidance/" class="md-meta__link">Career Guidance</a></li>
+              <a href="category/javascript/" class="md-meta__link">Javascript</a>, 
+              <a href="category/web-development/" class="md-meta__link">Web Development</a></li>
         
         
           
           <li class="md-meta__item">
             
-              2 min read
+              4 min read
             
           </li>
         
@@ -961,15 +1117,63 @@
     </div>
   </header>
   <div class="md-post__content md-typeset">
-    <h2 id="developing-your-pitch"><a class="toclink" href="2023/11/15/developing-your-pitch/">Developing Your Pitch</a></h2>
-<p><img alt="alt text" src="https://images.unsplash.com/photo-1711371307312-bb5d027f660d?q=80&amp;w=2070&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" /></p>
-<blockquote>
-<p>An elevator pitch is your short (30-60 second) professional introduction. A prepared elevator pitch will help you start a conversation with potential employers, faculty members, alumni and others. (Developing Your Elevator Pitch, n.d.)</p>
-</blockquote>
+    <h2 id="javascript-control-structures"><a class="toclink" href="2024/07/05/javascript-control-structures/">JavaScript Control Structures</a></h2>
+<p><img alt="alt text" src="https://images.unsplash.com/photo-1667372393096-9c864313e868?q=80&amp;w=1932&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" /></p>
+<p>JavaScript, often abbreviated JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. It lets us add interactivity to pages e.g. you might have seen sliders, alerts, click interactions, popups, etc on different websites — all of that is built using JavaScript...</p>
 
     
       <nav class="md-post__action">
-        <a href="2023/11/15/developing-your-pitch/">
+        <a href="2024/07/05/javascript-control-structures/">
+          Continue reading
+        </a>
+      </nav>
+    
+  </div>
+</article>
+      
+        <article class="md-post md-post--excerpt">
+  <header class="md-post__header">
+    
+      <nav class="md-post__authors md-typeset">
+        
+          <span class="md-author">
+            <img src="https://avatars.githubusercontent.com/u/52940441?v=4" alt="Ivan Arias">
+          </span>
+        
+      </nav>
+    
+    <div class="md-post__meta md-meta">
+      <ul class="md-meta__list">
+        <li class="md-meta__item">
+          <time datetime="2024-06-23 00:00:00">June 23, 2024</time></li>
+        
+          <li class="md-meta__item">
+            in
+            
+              <a href="category/programming/" class="md-meta__link">Programming</a>, 
+              <a href="category/javascript/" class="md-meta__link">Javascript</a>, 
+              <a href="category/python/" class="md-meta__link">Python</a></li>
+        
+        
+          
+          <li class="md-meta__item">
+            
+              3 min read
+            
+          </li>
+        
+      </ul>
+      
+    </div>
+  </header>
+  <div class="md-post__content md-typeset">
+    <h2 id="understanding-variables"><a class="toclink" href="2024/06/23/understanding-variables/">Understanding Variables</a></h2>
+<p><img alt="alt text" src="https://images.unsplash.com/photo-1608792992053-f397e328a56d?q=80&amp;w=1974&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" /></p>
+<p>A variable declaration is a statement in a computer programming language that specifies a variable's name and type, but does not assign it a value. The declaration tells the compiler that the variable exists in the program and where it is located. It also allows the program to reserve memory for storing the variable's values</p>
+
+    
+      <nav class="md-post__action">
+        <a href="2024/06/23/understanding-variables/">
           Continue reading
         </a>
       </nav>
@@ -984,7 +1188,7 @@
 
 
 <nav class="md-pagination">
-  
+  <span class="md-pagination__current">1</span> <a class="md-pagination__link" href="page/2/">2</a>
 </nav>
         
       
@@ -1057,7 +1261,7 @@
     </div>
     
     
-    <script id="__config" type="application/json">{"base": ".", "features": ["navigation.sections", "navigation.instant"], "search": "assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    <script id="__config" type="application/json">{"base": ".", "features": ["navigation.sections", "navigation.instant", "content.code.annotation", "content.code.copy", "content.code.select", "search.suggest", "search.highlight"], "search": "assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
     
     
       <script src="assets/javascripts/bundle.fe8b6f2b.min.js"></script>
